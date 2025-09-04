@@ -96,7 +96,7 @@ python src/runners/refinement_runner.py \
 
 **Note**: Steps 3-4 repeat for multiple iterations (iter0, iter1, iter2) to iteratively improve explanations.
 
-### 3. Evaluation
+## Evaluation
 
 ```bash
 # Evaluate counter rate
